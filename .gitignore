@@ -1,0 +1,13 @@
+# Testing
+.pytest_cache/
+*.test_output
+test-results.xml
+
+# FFmpeg binaries
+ffmpeg/
+ffmpeg*.zip
+
+# Local development files
+.env
+*.log
+*.tmp
